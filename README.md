@@ -18,6 +18,8 @@ This is the assignment of 12th session in Phase-1 of EVA-8 from TSAI
 <img src="Part_1-OpenCV_Yolo/image_out.jpg" width="300" height="600" title="output image">
 
 ## PART-2: Training YOLOV3 on custom dataset
+### Plot showing 16 output images
+<img src="Part_2-training_on_custom_dataset/16_output.png">
 
 ## PART-3: Inference on Youtube video
 ### Class - Courage (the cowardly dog)
