@@ -30,6 +30,9 @@ Compelete assignment implementation is divided into three parts both in README a
 - generate frames using FFMPG and infer over the frame using custom trained model.
 - upload this video back to youtube and share the link.
 
+#### Bonus-Part
+- Bonus part in which Yolov4 model needs to be trained on collected dataset.
+
 ## Dataset representation
 As mentioned above, here 200 images of 4 custom classes are collected. This four classes are -
 
